@@ -178,7 +178,7 @@
 		.container.\35 0\25 {
 			width: 45%;
 		}
-		}
+
 
 		.container.\32 5\25 {
 			width: 22.5%;
@@ -187,8 +187,8 @@
 		.container {
 			width: 90% !important;
 		}
-
 	}
+	
 
 	@media screen and (max-width: 480px) {
 
@@ -2921,7 +2921,7 @@
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
-			background-image: url(../../images/bg.jpg);
+			background-image: url(../../images/new_bg.jpg);
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
